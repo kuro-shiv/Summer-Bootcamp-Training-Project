@@ -137,8 +137,8 @@ Summer-Bootcamp-Training-Project/
 
 | Name                | GitHub Username         |
 |---------------------|-------------------------|
-| Aditi Pandey        | [Aditi14319](https://github.com/Aditi14319)  
 | Aditi Agnihotri     | [aditi549](https://github.com/aditi549)  
+| Aditi Pandey        | [Aditi14319](https://github.com/Aditi14319)  
 | Anshika Dubey       | [Anshika-Dubey](https://github.com/Anshika-Dubey)  
 | Ishita Aggarwal     | [ishita009A](https://github.com/ishita009A)  
 | Nirnay Awasthi      | [NirnayAwasthi](https://github.com/NirnayAwasthi)  
