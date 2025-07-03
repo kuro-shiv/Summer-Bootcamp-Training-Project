@@ -17,25 +17,15 @@ Summer-Bootcamp-Training-Project/
 │
 
 ├── CSV/
-
 │ ├── diagnoses+lab_results.csv
-
 │ ├── diagnoses_updated.csv
-
 │ ├── medications.csv
-
 │ ├── patient+visit.csv
-
 │ ├── patients+visits.csv
-
 │ ├── updated_lab_results.csv
-
 │ └── updated_patients.csv
-
 │ └── visits.csv
-
 │
-
 ├── Code/
 
 │ ├── Heart_Disease_(Lab_result+Medication+Diagnoses).ipynb
@@ -43,11 +33,8 @@ Summer-Bootcamp-Training-Project/
 │ ├── diagnoses+lab_result.ipynb
 
 │ ├── paitents_.analysis.ipynb
-
 │ ├── patients+visits.ipynb
-
 │ └── visit_analysis.ipynb
-
 │
 ├── SQL/
 
