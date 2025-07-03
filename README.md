@@ -7,7 +7,9 @@
 This project is a comprehensive data science analysis focused on understanding patterns and risk factors related to **heart attacks**. Our team explored multiple patient data sources and developed visualizations and reports using **Python**, **SQL**, **Power BI**, and **Jupyter Notebooks**.
 
 ---
+
 ##📁 Project Structure
+
 
 <details> <summary>📁 Summer-Bootcamp-Training-Project/</summary>
 
