@@ -10,39 +10,73 @@ This project is a comprehensive data science analysis focused on understanding p
 
 ## 📁 Project Structure
 Summer-Bootcamp-Training-Project/
+
 │
+
 ├── CSV/
+
 │ ├── diagnoses+lab_results.csv
+
 │ ├── diagnoses_updated.csv
+
 │ ├── medications.csv
+
 │ ├── patient+visit.csv
+
 │ ├── patients+visits.csv
+
 │ ├── updated_lab_results.csv
+
 │ └── updated_patients.csv
+
 │ └── visits.csv
+
 │
+
 ├── Code/
+
 │ ├── Heart_Disease_(Lab_result+Medication+Diagnoses).ipynb
+
 │ ├── diagnoses+lab_result.ipynb
+
 │ ├── paitents_.analysis.ipynb
+
 │ ├── patients+visits.ipynb
+
 │ └── visit_analysis.ipynb
+
 │
+
 ├── SQL/
+
 │ ├── heart_disease.sql
+
 │ └── SQL_Report.pdf
+
 │
+
 ├── PDF/
+
 │ ├── Heart Disease Analysis Project.pdf
+
 │ ├── Heart Disease.pdf
+
 │ ├── Heart_Disease_Report.pdf
+
 │ ├── Paitent_View.pdf
+
 │ └── lab_diagnosis_analysis.pdf
+
 │
+
 ├── PowerBI/
+
 │ └── Heart Disease Analysis Project.pbix
+
 │
+
 └── README.md
+
 
 
 
