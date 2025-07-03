@@ -8,7 +8,7 @@ This project is a comprehensive data science analysis focused on understanding p
 
 ---
 ##📁 Project Structure
-<details> <summary>📁Summer-Bootcamp-Training-Project/</summary>
+<details> <summary>📁 Summer-Bootcamp-Training-Project/</summary>
 
 │
 
@@ -29,7 +29,9 @@ This project is a comprehensive data science analysis focused on understanding p
 │ └── updated_patients.csv
 
 │ └── visits.csv
+
 │
+
 ├── 📁 Code/
 
 │ ├── Heart_Disease_(Lab_result+Medication+Diagnoses).ipynb
