@@ -7,16 +7,12 @@
 This project is a comprehensive data science analysis focused on understanding patterns and risk factors related to **heart attacks**. Our team explored multiple patient data sources and developed visualizations and reports using **Python**, **SQL**, **Power BI**, and **Jupyter Notebooks**.
 
 ---
-
-<details> <summary>📁 Project Structure</summary>
-
-
-
-Summer-Bootcamp-Training-Project/
+##📁 Project Structure
+<details> <summary>📁Summer-Bootcamp-Training-Project/</summary>
 
 │
 
-├── CSV/
+├── 📁 CSV/
 
 │ ├── diagnoses+lab_results.csv
 
@@ -34,7 +30,7 @@ Summer-Bootcamp-Training-Project/
 
 │ └── visits.csv
 │
-├── Code/
+├── 📁 Code/
 
 │ ├── Heart_Disease_(Lab_result+Medication+Diagnoses).ipynb
 
@@ -48,7 +44,7 @@ Summer-Bootcamp-Training-Project/
 
 │
 
-├── SQL/
+├── 📁 SQL/
 
 │ ├── heart_disease.sql
 
@@ -56,7 +52,7 @@ Summer-Bootcamp-Training-Project/
 
 │
 
-├── PDF/
+├── 📁 PDF/
 
 │ ├── Heart Disease Analysis Project.pdf
 
@@ -70,7 +66,7 @@ Summer-Bootcamp-Training-Project/
 
 │
 
-├── PowerBI/
+├── 📁 PowerBI/
 
 │ └── Heart Disease Analysis Project.pbix
 
