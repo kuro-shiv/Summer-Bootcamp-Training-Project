@@ -195,9 +195,10 @@ Special thanks to our mentor **Saurabh Aggarwal Sir** for his valuable guidance 
 
 ---
 
-## 📜 License
+## 📜 Reflection 
 
 > _"This bootcamp was a highly enriching and insightful experience. Working on a real-world case study helped us enhance both technical and analytical skills, and taught us how to collaborate on industry-level data science workflows."_  
+
 > — Team Feedback
 
 
