@@ -8,6 +8,43 @@ This project is a comprehensive data science analysis focused on understanding p
 
 ---
 
+## 🫀 About the Project
+
+This project, **Heart Disease Analysis in India**, was undertaken as part of the **Summer Bootcamp Training Program** at **SRMCEM, Lucknow** under the guidance of **Saurabh Aggarwal Sir**.
+
+The core objective of the project was to **identify causes, patterns, and contributing factors related to heart attacks**, using real-world clinical datasets. We aimed to derive insights that can aid in early detection, better diagnosis, and healthcare planning.
+
+### 🧩 Project Goals:
+- Understand patient demographics and medical history
+- Identify key diagnostic markers and abnormal lab results
+- Explore the relationship between medications and diagnoses
+- Analyze visit patterns and hospitalization frequency
+- Integrate and visualize data through dashboards
+
+### 📚 Datasets Used:
+- `patients.csv` – Patient demographics and IDs
+- `visits.csv` – Details of hospital visits and admissions
+- `diagnosis.csv` – Medical diagnoses related to cardiovascular conditions
+- `lab_record.csv` – Lab test results (e.g., cholesterol, ECG, blood pressure)
+- `medication.csv` – Prescribed drugs and treatment histories
+
+### 🔬 Key Analysis Areas:
+- Patient-level profiling
+- Temporal patterns in visits and treatments
+- Correlation between diagnoses and lab findings
+- Effectiveness and frequency of specific medications
+- Data integration across files for comprehensive case analysis
+
+The project included SQL-based data extraction, Python-based analysis using libraries like **Pandas**, **Matplotlib**, **Seaborn**, and the development of a **Power BI dashboard** for executive-level visual insight.
+
+---
+
+> _"This bootcamp was a highly enriching and insightful experience. Working on a real-world case study helped us enhance both technical and analytical skills, and taught us how to collaborate on industry-level data science workflows."_  
+> — Team Feedback
+
+
+---
+
 ## 📁 Project Structure
 
 
@@ -17,63 +54,63 @@ This project is a comprehensive data science analysis focused on understanding p
 
 ├── 📁 CSV/
 
-│ ├── diagnoses+lab_results.csv
+│   ├── diagnoses+lab_results.csv
 
-│ ├── diagnoses_updated.csv
+│   ├── diagnoses_updated.csv
 
-│ ├── medications.csv
+│   ├── medications.csv
 
-│ ├── patient+visit.csv
+│   ├── patient+visit.csv
 
-│ ├── patients+visits.csv
+│   ├── patients+visits.csv
 
-│ ├── updated_lab_results.csv
+│   ├── updated_lab_results.csv
 
-│ └── updated_patients.csv
+│   └── updated_patients.csv
 
-│ └── visits.csv
+│   └── visits.csv
 
 │
 
 ├── 📁 Code/
 
-│ ├── Heart_Disease_(Lab_result+Medication+Diagnoses).ipynb
+│   ├── Heart_Disease_(Lab_result+Medication+Diagnoses).ipynb
 
-│ ├── diagnoses+lab_result.ipynb
+│   ├── diagnoses+lab_result.ipynb
 
-│ ├── paitents_.analysis.ipynb
+│   ├── paitents_.analysis.ipynb
 
-│ ├── patients+visits.ipynb
+│   ├── patients+visits.ipynb
 
-│ └── visit_analysis.ipynb
+│   └── visit_analysis.ipynb
 
 │
 
 ├── 📁 SQL/
 
-│ ├── heart_disease.sql
+│   ├── heart_disease.sql
 
-│ └── SQL_Report.pdf
+│   └── SQL_Report.pdf
 
 │
 
 ├── 📁 PDF/
 
-│ ├── Heart Disease Analysis Project.pdf
+│   ├── Heart Disease Analysis Project.pdf
 
-│ ├── Heart Disease.pdf
+│   ├── Heart Disease.pdf
 
-│ ├── Heart_Disease_Report.pdf
+│   ├── Heart_Disease_Report.pdf
 
-│ ├── Paitent_View.pdf
+│   ├── Paitent_View.pdf
 
-│ └── lab_diagnosis_analysis.pdf
+│   └── lab_diagnosis_analysis.pdf
 
 │
 
 ├── 📁 PowerBI/
 
-│ └── Heart Disease Analysis Project.pbix
+│   └── Heart Disease Analysis Project.pbix
 
 │
 
@@ -166,7 +203,7 @@ This project is for academic and educational purposes only.
 
 
 ---
-## 📎 Clone the repository:
+## 📎 Clone the repository
 
    ```bash
    git clone https://github.com/kuro-shiv/Summer-Bootcamp-Training-Project
