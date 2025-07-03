@@ -88,11 +88,11 @@ Summer-Bootcamp-Training-Project/
 📊 **Dashboard File:** [Heart Disease Analysis Project.pbix](https://github.com/kuro-shiv/Summer-Bootcamp-Training-Project/blob/main/PowerBI/Heart%20Disease%20Analysis%20Project.pbix?raw=true)
 
 
-> 🔗 📄 **SQL Report:** [SQL_Report.pdf](https://github.com/kuro-shiv/Summer-Bootcamp-Training-Project/blob/f2c24361a7b5e1bc44a933ba7bca6465bfdfab3e/SQL/SQL_Report.pdf)
+🔗 📄 **SQL Report:** [SQL_Report.pdf](https://github.com/kuro-shiv/Summer-Bootcamp-Training-Project/blob/f2c24361a7b5e1bc44a933ba7bca6465bfdfab3e/SQL/SQL_Report.pdf)
 
 
 
----
+
 
 
 ---
