@@ -141,9 +141,10 @@ Summer-Bootcamp-Training-Project/
 | Aditi Agnihotri     | [aditi549](https://github.com/aditi549)  
 | Anshika Dubey       | [Anshika-Dubey](https://github.com/Anshika-Dubey)  
 | Ishita Aggarwal     | [ishita009A](https://github.com/ishita009A)  
-| Suryakant Mishra    | [mishrasuryakant](https://github.com/mishrasuryakant)  
 | Nirnay Awasthi      | [NirnayAwasthi](https://github.com/NirnayAwasthi)  
 | Shashank Mishra     | [ShashankMishra9696](https://github.com/ShashankMishra9696)  
+| Shivam Kumar Dubey  | [kuro-shiv](https://github.com/kuro-shiv)  
+| Suryakant Mishra    | [mishrasuryakant](https://github.com/mishrasuryakant)  
 | Vanshika Gupta      | [vanshikagpt1204](https://github.com/vanshikagpt1204)  
 
 ---
