@@ -48,6 +48,7 @@ The core objective of the project was to **identify causes, patterns, and contri
 The project involved SQL-based data extraction, Python-based analysis using libraries such as **Pandas**, **Matplotlib**, and **Seaborn**, as well as the development of a **Power BI dashboard** for executive-level visual insights.
 
 </details>
+
 ---
 
 ## 📁 Project Structure
