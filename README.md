@@ -14,7 +14,8 @@ This project, **Heart Disease Analysis in India**, was undertaken as part of the
 
 The core objective of the project was to **identify causes, patterns, and contributing factors related to heart attacks**, using real-world clinical datasets. We aimed to derive insights that can aid in early detection, better diagnosis, and healthcare planning.
 
-<details> 🧩 Project Goals</summary>
+<details> 
+<summary> 🧩 Project Goals</summary>
 
 
 - Understand patient demographics and medical history
