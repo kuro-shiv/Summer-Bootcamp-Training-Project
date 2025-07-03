@@ -21,12 +21,17 @@ The core objective of the project was to **identify causes, patterns, and contri
 - Analyze visit patterns and hospitalization frequency
 - Integrate and visualize data through dashboards
 
-### 📚 Datasets Used:
+<details>
+  
+<summary>📚 Datasets Used</summary>
+  
 - `patients.csv` – Patient demographics and IDs
 - `visits.csv` – Details of hospital visits and admissions
 - `diagnosis.csv` – Medical diagnoses related to cardiovascular conditions
 - `lab_record.csv` – Lab test results (e.g., cholesterol, ECG, blood pressure)
 - `medication.csv` – Prescribed drugs and treatment histories
+
+</details>
 
 ### 🔬 Key Analysis Areas:
 - Patient-level profiling
@@ -35,12 +40,7 @@ The core objective of the project was to **identify causes, patterns, and contri
 - Effectiveness and frequency of specific medications
 - Data integration across files for comprehensive case analysis
 
-The project included SQL-based data extraction, Python-based analysis using libraries like **Pandas**, **Matplotlib**, **Seaborn**, and the development of a **Power BI dashboard** for executive-level visual insight.
-
----
-
-> _"This bootcamp was a highly enriching and insightful experience. Working on a real-world case study helped us enhance both technical and analytical skills, and taught us how to collaborate on industry-level data science workflows."_  
-> — Team Feedback
+The project involved SQL-based data extraction, Python-based analysis using libraries such as **Pandas**, **Matplotlib**, and **Seaborn**, as well as the development of a **Power BI dashboard** for executive-level visual insights.
 
 
 ---
@@ -196,6 +196,10 @@ Special thanks to our mentor **Saurabh Aggarwal Sir** for his valuable guidance 
 ---
 
 ## 📜 License
+
+> _"This bootcamp was a highly enriching and insightful experience. Working on a real-world case study helped us enhance both technical and analytical skills, and taught us how to collaborate on industry-level data science workflows."_  
+> — Team Feedback
+
 
 This project is for academic and educational purposes only.
 
