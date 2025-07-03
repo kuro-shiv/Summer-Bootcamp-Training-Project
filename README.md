@@ -14,16 +14,19 @@ This project, **Heart Disease Analysis in India**, was undertaken as part of the
 
 The core objective of the project was to **identify causes, patterns, and contributing factors related to heart attacks**, using real-world clinical datasets. We aimed to derive insights that can aid in early detection, better diagnosis, and healthcare planning.
 
-### 🧩 Project Goals:
+<details> 🧩 Project Goals</summary>
+
+
 - Understand patient demographics and medical history
 - Identify key diagnostic markers and abnormal lab results
 - Explore the relationship between medications and diagnoses
 - Analyze visit patterns and hospitalization frequency
 - Integrate and visualize data through dashboards
 
+</details>
 <details>
   
-<summary>📚 Datasets Used</summary>
+<summary> 📚 Datasets Used</summary>
   
 - `patients.csv` – Patient demographics and IDs
 - `visits.csv` – Details of hospital visits and admissions
@@ -32,8 +35,9 @@ The core objective of the project was to **identify causes, patterns, and contri
 - `medication.csv` – Prescribed drugs and treatment histories
 
 </details>
+<details> 
+<summary> 🔬 Key Analysis Areas</summary>
 
-### 🔬 Key Analysis Areas:
 - Patient-level profiling
 - Temporal patterns in visits and treatments
 - Correlation between diagnoses and lab findings
@@ -42,7 +46,7 @@ The core objective of the project was to **identify causes, patterns, and contri
 
 The project involved SQL-based data extraction, Python-based analysis using libraries such as **Pandas**, **Matplotlib**, and **Seaborn**, as well as the development of a **Power BI dashboard** for executive-level visual insights.
 
-
+</details>
 ---
 
 ## 📁 Project Structure
