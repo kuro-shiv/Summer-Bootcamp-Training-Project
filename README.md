@@ -8,6 +8,7 @@ This project is a comprehensive data science analysis focused on understanding p
 
 ---
 ##📁 Project Structure
+
 <details> <summary>📁 Summer-Bootcamp-Training-Project/</summary>
 
 │
