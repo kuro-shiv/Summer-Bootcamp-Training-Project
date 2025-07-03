@@ -12,10 +12,6 @@ This project is a comprehensive data science analysis focused on understanding p
 
 <details> <summary>📋 Click to Copy This Code Block</summary>
 
-
-
-
-
 Summer-Bootcamp-Training-Project/
 
 │
@@ -53,7 +49,6 @@ Summer-Bootcamp-Training-Project/
 │ └── visit_analysis.ipynb
 
 │
-
 ├── SQL/
 
 │ ├── heart_disease.sql
@@ -84,7 +79,7 @@ Summer-Bootcamp-Training-Project/
 
 └── README.md
 
-
+</details>
 
 
 ---
