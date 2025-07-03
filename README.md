@@ -163,9 +163,8 @@ This project is for academic and educational purposes only.
 
 
 ---
-## 📎 How to Use
+## 📎 Clone the repository:
 
-1. Clone the repository:
    ```bash
    git clone https://github.com/kuro-shiv/Summer-Bootcamp-Training-Project
    cd Summer-Bootcamp-Training-Project
