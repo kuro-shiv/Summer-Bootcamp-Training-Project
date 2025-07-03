@@ -2,7 +2,7 @@
 
 **Summer Bootcamp Training Project**  
 **SRMCEM, Lucknow**  
-**Mentor:** Saurabh Aggarwal Sir  
+
 
 This project is a comprehensive data science analysis focused on understanding patterns and risk factors related to **heart attacks**. Our team explored multiple patient data sources and developed visualizations and reports using **Python**, **SQL**, **Power BI**, and **Jupyter Notebooks**.
 
@@ -19,12 +19,19 @@ Summer-Bootcamp-Training-Project/
 ├── CSV/
 
 │ ├── diagnoses+lab_results.csv
+
 │ ├── diagnoses_updated.csv
+
 │ ├── medications.csv
+
 │ ├── patient+visit.csv
+
 │ ├── patients+visits.csv
+
 │ ├── updated_lab_results.csv
+
 │ └── updated_patients.csv
+
 │ └── visits.csv
 │
 ├── Code/
@@ -34,9 +41,13 @@ Summer-Bootcamp-Training-Project/
 │ ├── diagnoses+lab_result.ipynb
 
 │ ├── paitents_.analysis.ipynb
+
 │ ├── patients+visits.ipynb
+
 │ └── visit_analysis.ipynb
+
 │
+
 ├── SQL/
 
 │ ├── heart_disease.sql
@@ -68,6 +79,18 @@ Summer-Bootcamp-Training-Project/
 └── README.md
 
 </details>
+
+
+---
+
+## 📸 Sample Dashboard
+
+![Heart Disease Dashboard](https://your-image-link.com/dashboard.png)
+
+> 🔗 [![Dashboard Preview](https://github.com/kuro-shiv/Summer-Bootcamp-Training-Project/blob/main/assets/dashboard.png?raw=true)](https://github.com/kuro-shiv/Summer-Bootcamp-Training-Project/blob/main/PowerBI/Heart%20Disease%20Analysis%20Project.pbix?raw=true)
+
+
+---
 
 
 ---
@@ -125,6 +148,20 @@ Summer-Bootcamp-Training-Project/
 
 ---
 
+## 🙏 Acknowledgement
+
+Special thanks to our mentor **Saurabh Aggarwal Sir** for his valuable guidance throughout the project.
+
+---
+
+## 📜 License
+
+This project is for academic and educational purposes only.
+
+
+
+
+---
 ## 📎 How to Use
 
 1. Clone the repository:
