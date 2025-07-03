@@ -9,6 +9,13 @@ This project is a comprehensive data science analysis focused on understanding p
 ---
 
 ## 📁 Project Structure
+
+<details> <summary>📋 Click to Copy This Code Block</summary>
+
+
+
+
+
 Summer-Bootcamp-Training-Project/
 
 │
