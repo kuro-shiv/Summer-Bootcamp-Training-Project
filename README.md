@@ -134,7 +134,7 @@ This project includes a detailed exploration of heart disease data using **Power
 
 ### 🖼️ PDF Preview
 
-![Heart Disease Report Preview](https://github.com/kuro-shiv/Summer-Bootcamp-Training-Project/blob/main/PDF/img.jpeg)
+![Heart Disease Report Preview](https://github.com/kuro-shiv/Summer-Bootcamp-Training-Project/blob/main/PDF/img.png)
 
 
 
