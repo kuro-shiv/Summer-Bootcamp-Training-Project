@@ -78,7 +78,7 @@ The project involved SQL-based data extraction, Python-based analysis using libr
 
 ├── 📁 Code/
 
-│   ├──Heart_Disease_(Lab_result+Medication+Diagnoses).ipynb
+│   ├──Heart_Disease_(Lab_result+Medication+Diagnoses).ipynb/
 
 │   ├── diagnoses+lab_result.ipynb
 
