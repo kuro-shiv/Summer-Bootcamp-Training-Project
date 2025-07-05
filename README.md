@@ -130,7 +130,7 @@ The project involved SQL-based data extraction, Python-based analysis using libr
 This project includes a detailed exploration of heart disease data using **Power BI** and **SQL**.
 
 - 🧠 **Dashboard File**: `Heart Disease Analysis Project.pbix`
-- 📄 **CSV**: [Click here to view the Datasets]([https://github.com/kuro-shiv/Summer-Bootcamp-Training-Project/blob/main/PDF/Heart%20Disease%20Analysis%20Project.pdf](https://github.com/kuro-shiv/Summer-Bootcamp-Training-Project/tree/main/CSV))
+- 📄 **CSV**: [Click here to view the Datasets]([https://github.com/kuro-shiv/Summer-Bootcamp-Training-Project/blob/main/PDF/Heart%20Disease%20Analysis%20Project.pdf](https://github.com/kuro-shiv/Summer-Bootcamp-Training-Project/tree/main/CSV)
 
 ### 🖼️ PDF Preview
 
