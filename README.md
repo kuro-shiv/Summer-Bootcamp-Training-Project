@@ -10,8 +10,6 @@ This project is a comprehensive data science analysis focused on understanding p
 
 ## 🫀 About the Project
 
-This project, **Heart Disease Analysis in India**, was undertaken as part of the **Summer Bootcamp Training Program** at **SRMCEM, Lucknow** under the guidance of **Saurabh Aggarwal Sir**.
-
 The core objective of the project was to **identify causes, patterns, and contributing factors related to heart attacks**, using real-world clinical datasets. We aimed to derive insights that can aid in early detection, better diagnosis, and healthcare planning.
 
 <details> 
